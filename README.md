@@ -119,12 +119,5 @@ programmers-survey-form/
 
 ---
 
-## **Future Enhancements**
-
-1. Add user authentication to secure submissions.
-2. Implement advanced analytics dashboards using collected data.
-3. Support for file uploads (e.g., resumes, portfolios).
-4. Include additional validation and error handling for robust data input.
-
 
 
