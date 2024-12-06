@@ -114,7 +114,6 @@ programmers-survey-form/
 
 ## **Demonstration**
 ![Audio Visualizer Preview](https://github.com/Anu142004/survey_form/blob/07177878b88bd30feb7993b78a718cbca66f6d55/Screenshot%20(11).png)  
-(*Add a screenshot or GIF of the form in action*)
 
 ---
 
